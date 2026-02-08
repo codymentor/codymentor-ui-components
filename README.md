@@ -1,2 +1,3 @@
-# codymentor-ui-components
-Production-ready React UI components with educational documentation
+# 🎨 CodyMentor UI Components
+
+Professional React components with educational documentation.
